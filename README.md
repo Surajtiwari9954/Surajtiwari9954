@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Tiwari</h1>
 <h3 align="center">Dedicated Civil Engineering Student | Passionate about Water Resources and Hydraulic Engineering | Committed to Sustainable Infrastructure</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fbablubambal%2FAll_logo_and_pictures&psig=AOvVaw14-Qy5o5naxw7fJ1pNbvk-&ust=1734959844008000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCnqZ67u4oDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajtiwari9954&label=Profile%20views&color=0e75b6&style=flat" alt="surajtiwari9954" /> </p>
 
